@@ -34,7 +34,7 @@ education:
   - course: BS Computer Science
     institution: Hampden-Sydney College
     year: 2013
-  - course: AA Computer Science
+  - course: AA German Language & Literature 🇩🇪
     institution: Hampden-Sydney College
     year: 2013
 

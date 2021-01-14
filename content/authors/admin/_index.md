@@ -56,7 +56,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: address-card
   icon_pack: fas
-  link: Erik Schafer Resume August 2020.pdf
+  link: ErikSchafer-DataScientist-Jan2021.pdf
   description: resume
   
   

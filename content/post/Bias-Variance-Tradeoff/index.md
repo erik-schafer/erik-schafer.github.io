@@ -53,7 +53,7 @@ The core idea of bias is that for any model, there are generally some relationsh
 Some models, like linear regression, have high bias, while others, like a higher-order polynomial model or a neural net with many layers and neurons, have much more flexibility (low bias).  Besides, Occam's Razor, which says we should prefer the simpler models over the more complex ones, there is a deeper reason to eschew models with low bias -- models with low bias suffer from another problem: high variance.
 
 * A model that has strong 'preconcieved notions' about the relationships in the data has high bias
-* A highly flexible model, like a universal function approximator, has low bias
+* A highly flexible model, like a universal function approximator, has low bias 
 * Bias relates to the implicit limitations in the Hypothesis Space of a given model
 
 ## Variance
